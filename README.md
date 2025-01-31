@@ -37,7 +37,7 @@ Pojawią się wtedy ponownie plansze i będzie można oddawać strzały. Na ekra
 Aby oddać strzał wpisujemy np. A 1 lub A1. W ten wykonujemy ruch, a od razu potem losuje ruch komputer (ruch jest zupełnie losowy spośród pozostałych współrzędnych niewykorzystanych).
 Gra może zakończyć się przez gracza wygraną, remisem lub przegraną, w zależności od tego która ze stron pierwsza uzyska 20 trafień.
 
-Po zakończeniu rozgrywki pojawia się komunikat o tym kto zwyciężył oraz pojawia się możliwość wyjścia lub ponownego rozegrania rozgrywki.
+Po zakończeniu rozgrywki pojawia się komunikat o tym kto zwyciężył oraz pojawia się możliwość wyjścia lub ponownego rozegrania bitwy.
 ---------------------
 
 Powodzenia!
